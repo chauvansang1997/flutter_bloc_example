@@ -1,4 +1,4 @@
-import 'package:flutter_bloc_example/models/product_category.dart';
+import 'package:product_list/models/product_category.dart';
 
 abstract class ProductCategoryApi {
 

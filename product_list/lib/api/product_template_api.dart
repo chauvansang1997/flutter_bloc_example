@@ -1,5 +1,5 @@
-import 'package:flutter_bloc_example/models/api_list_result.dart';
-import 'package:flutter_bloc_example/models/product.dart';
+import 'package:product_list/models/api_list_result.dart';
+import 'package:product_list/models/product.dart';
 
 
 abstract class ProductApi {

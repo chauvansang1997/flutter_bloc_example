@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_example/models/product.dart';
-import 'package:flutter_bloc_example/pages/product/add_edit/ui/product_edit_page.dart';
-import 'package:flutter_bloc_example/pages/product/list/bloc/product_bloc.dart';
+import 'package:product_list/models/product.dart';
+import 'package:product_list/pages/product/add_edit/ui/product_edit_page.dart';
+import 'package:product_list/pages/product/list/bloc/product_bloc.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
 class ProductListPage extends StatefulWidget {

@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc_example/core/locator.dart';
-import 'package:flutter_bloc_example/pages/product/list/ui/product_list_page.dart';
+import 'package:product_list/core/locator.dart';
+import 'package:product_list/pages/product/list/ui/product_list_page.dart';
 import 'package:logger/logger.dart';
 
 final Logger _logger = Logger();

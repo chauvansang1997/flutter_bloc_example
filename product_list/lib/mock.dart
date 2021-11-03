@@ -1,7 +1,7 @@
-import 'package:flutter_bloc_example/api/product_template_api.dart';
-import 'package:flutter_bloc_example/models/api_list_result.dart';
-import 'package:flutter_bloc_example/models/product.dart';
-import 'package:flutter_bloc_example/models/product_category.dart';
+import 'package:product_list/api/product_template_api.dart';
+import 'package:product_list/models/api_list_result.dart';
+import 'package:product_list/models/product.dart';
+import 'package:product_list/models/product_category.dart';
 
 import 'api/product_category_api.dart';
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_example/models/product.dart';
-import 'package:flutter_bloc_example/models/product_category.dart';
-import 'package:flutter_bloc_example/pages/product/add_edit/bloc/product_edit_bloc.dart';
-import 'package:flutter_bloc_example/pages/product/list/bloc/product_bloc.dart';
+import 'package:product_list/models/product.dart';
+import 'package:product_list/models/product_category.dart';
+import 'package:product_list/pages/product/add_edit/bloc/product_edit_bloc.dart';
+import 'package:product_list/pages/product/list/bloc/product_bloc.dart';
 
 class ProductEditPage extends StatefulWidget {
   const ProductEditPage({Key? key, this.product}) : super(key: key);

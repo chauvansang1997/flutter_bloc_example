@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
-import 'package:flutter_bloc_example/api/product_category_api.dart';
-import 'package:flutter_bloc_example/api/product_template_api.dart';
-import 'package:flutter_bloc_example/models/product.dart';
-import 'package:flutter_bloc_example/models/product_category.dart';
+import 'package:product_list/api/product_category_api.dart';
+import 'package:product_list/api/product_template_api.dart';
+import 'package:product_list/models/product.dart';
+import 'package:product_list/models/product_category.dart';
 import 'package:get_it/get_it.dart';
 import 'package:logger/logger.dart';
 import 'package:meta/meta.dart';
